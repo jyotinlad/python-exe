@@ -1,7 +1,7 @@
 # Python Executable
 
 ## Overview
-A A mechanism to convert Python scripts in executables. to convert Python scripts in executables.
+A mechanism to convert Python scripts in executables. to convert Python scripts in executables.
  
 ## Prerequisites
 The python packages `pyinstaller` and `pywin32` must be installed (as follows when using Anaconda).
