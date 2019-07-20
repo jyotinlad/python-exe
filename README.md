@@ -1,17 +1,16 @@
-Python Executable
----
+# Python Executable
 
-# Overview
-A way to convert Python scripts in executables.
+## Overview
+A A mechanism to convert Python scripts in executables. to convert Python scripts in executables.
  
-# Prerequisites
+## Prerequisites
 The python packages `pyinstaller` and `pywin32` must be installed (as follows when using Anaconda).
 ```
 conda install -c conda-forge pyinstaller
 conda install -c anaconda pywin32
 ```
 
-# Instructions
+## Instructions
 The executable can be created by running the following command:
 
 `C:\ProgramData\Anaconda3\Scripts\pyinstaller --onefile <file_name>.py`
